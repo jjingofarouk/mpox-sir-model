@@ -120,42 +120,20 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 
 ---
 
-## License
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
 
 ## Acknowledgments
 
 - The SIR model is based on classical epidemiological models.
 - Inspired by the need to understand the spread of infectious diseases like Mpox.
-- Built with ❤️ by [Your Name].
+- Built with ❤️ by Jjingo Farouk.
 
 ---
 
 ## Questions or Feedback?
 
-Feel free to open an issue on GitHub or contact me at [your-email@example.com](mailto:your-email@example.com).
+Feel free to open an issue on GitHub or contact me at [jjingofarouq@gmail.com](jjingofarouq@gmail.com).
 
 ```
 
----
 
-### **Key Updates**
-1. **Live Demo Link**: Added the live demo URL (`https://mpox-sir-model.onrender.com`) for easy access.
-2. **Clear Instructions**: Provided step-by-step instructions for using the app.
-3. **Technical Details**: Explained the SIR model and the technologies used.
-4. **Contributing Guide**: Added a section for contributors.
-5. **License and Acknowledgments**: Included licensing information and acknowledgments.
-
----
-
-### **How to Use This README**
-1. Replace `your-username` with your GitHub username.
-2. Replace `your-email@example.com` with your contact email (optional).
-3. Replace `[Your Name]` with your name or team name.
-
----
-
-Let me know if you need further adjustments! 😊

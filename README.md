@@ -132,6 +132,3 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 
 Feel free to open an issue on GitHub or contact me at [jjingofarouq@gmail.com](jjingofarouq@gmail.com).
 
-```
-
-

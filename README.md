@@ -1,8 +1,6 @@
-Here’s an updated and meaningful `README.md` for your **Mpox SIR Model Simulation** project, tailored to the deployed app at `https://mpox-sir-model.onrender.com`. This README provides a clear overview of the project, how to use it, and how to contribute.
 
 ---
 
-```markdown
 # Mpox SIR Model Simulation
 
 This is a Flask web application that simulates the spread of **Mpox** (formerly Monkeypox) using the **SIR (Susceptible-Infected-Recovered) model**. The app allows users to input parameters and visualize how the disease spreads over time.

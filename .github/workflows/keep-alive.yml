@@ -1,0 +1,14 @@
+name: Keep Mpox SIR Model Awake
+
+on:
+  schedule:
+    - cron: "*/14 * * * *" # Every 14 minutes
+  workflow_dispatch: # Allows manual trigger if needed
+
+jobs:
+  keep-awake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Ping the Render app
+        run: curl -s https://mpox-sir-model.onrender.com > /dev/null
